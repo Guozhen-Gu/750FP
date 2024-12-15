@@ -1,0 +1,353 @@
+﻿Gender,Age,Education,Score_1,Score_2,Sleep_Trouble,Lethargy,Poor_Appetite,Low_Confidence,Low_Focus,Restlessness,Self-harming_Thoughts,Job_Type,Accommodation_Type,Study_Hours,Electronic_Gadgets,Social-media_Hours,GPA
+Male,Middle,Bachelor,3,2,4,4,3,3,4,3,2,Part time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Male,Middle,Bachelor,2,1,2,1,1,1,1,1,1,Part time,University hall of residence,1 - 2 hours,1 - 3,1 - 2 Hours,2.7000000000000002
+Female,Young,High School,2,2,2,2,1,1,2,2,1,No job,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.9700000000000002
+Female,Young,High School,3,1,2,3,3,1,1,1,2,No job,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,2.7400000000000002
+Male,Young,High School,1,2,2,3,1,1,3,1,1,Part time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,3.3700000000000001
+Female,Old,Master,1,2,3,4,3,1,3,3,1,Part time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,3.3300000000000001
+Female,Middle,Bachelor,2,2,3,3,1,1,2,2,1,Part time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,2.75
+Male,Middle,Master,3,3,3,3,3,3,3,3,3,No job,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.25
+Female,Middle,Bachelor,3,1,4,3,1,2,1,1,1,Full time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,3.9700000000000002
+Female,Middle,High School,3,4,2,2,4,3,4,1,2,Part time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.75
+Female,Middle,Bachelor,2,4,4,3,2,3,4,1,3,No job,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.9700000000000002
+Female,Old,Master,1,2,3,4,3,1,3,3,1,Part time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,2.25
+Male,Old,Master,1,1,3,3,1,1,3,1,1,Full time,Private rented accommodation,2 - 4 hours,4 - 6,Not Applicable,3.25
+Male,Young,High School,1,1,1,1,1,1,1,1,1,No job,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.25
+Male,Old,Bachelor,1,1,1,1,2,2,2,1,1,Full time,Private rented accommodation,2 - 4 hours,More than 6,1 - 2 Hours,2.75
+Male,Middle,Bachelor,1,1,3,2,1,1,2,1,1,Full time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.23
+Female,Middle,Bachelor,1,1,1,2,1,2,1,1,1,Full time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.75
+Female,Old,Bachelor,1,1,2,2,1,2,2,1,1,Full time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.98
+Male,Old,Bachelor,4,4,4,4,4,4,4,4,4,Full time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,2.2999999999999998
+Male,Middle,High School,2,3,4,4,4,3,4,2,3,Full time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.25
+Female,Old,Bachelor,3,3,4,3,3,3,2,1,3,No job,Home (with parents),More than 4 hours,More than 6,2 - 4 Hours,2.2999999999999998
+Female,Old,Master,4,3,1,4,4,3,4,2,2,Full time,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.9700000000000002
+Female,Middle,Bachelor,4,4,4,4,4,4,3,2,4,No job,Private rented accommodation,More than 4 hours,4 - 6,More than 4 Hours,3.25
+Male,Middle,Bachelor,2,1,1,1,1,2,1,1,1,Full time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.2000000000000002
+Female,Young,High School,2,1,3,3,2,3,1,1,1,No job,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,3.25
+Male,Old,Bachelor,1,2,1,2,1,1,1,1,1,Full time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,4
+Female,Middle,High School,2,3,4,4,4,3,3,2,2,Part time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,2.3999999999999999
+Female,Middle,High School,3,4,2,2,4,3,4,1,2,Part time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.75
+Female,Old,Bachelor,3,2,4,2,4,1,1,1,1,Full time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.75
+Female,Old,Bachelor,2,2,3,2,1,1,2,1,1,Part time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,3.25
+Female,Middle,Bachelor,2,1,3,2,3,3,2,1,1,No job,Private rented accommodation,More than 4 hours,1 - 3,More than 4 Hours,2.9700000000000002
+Female,Young,High School,2,3,4,1,3,2,3,2,1,Part time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,3.7599999999999998
+Male,Old,Master,1,1,3,2,1,1,1,2,1,Full time,Private rented accommodation,More than 4 hours,4 - 6,1 - 2 Hours,4
+Female,Middle,High School,4,2,4,4,4,2,2,2,1,Part time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.75
+Female,Old,Master,2,2,2,3,2,1,2,1,1,Part time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4
+Male,Old,High School,2,2,4,3,3,3,2,2,3,No job,Home (with parents),More than 4 hours,4 - 6,2 - 4 Hours,2.7799999999999998
+Female,Middle,Bachelor,2,1,2,1,1,2,2,3,3,Part time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.9700000000000002
+Female,Middle,High School,2,3,3,4,4,4,1,1,2,No job,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.3199999999999998
+Male,Old,Master,2,2,2,2,1,2,2,1,1,Part time,Private rented accommodation,More than 4 hours,1 - 3,1 - 2 Hours,2.73
+Male,Old,Master,1,2,3,1,2,1,3,2,1,Full time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.8700000000000001
+Female,Middle,Bachelor,2,2,4,3,3,2,3,1,2,No job,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,2.75
+Female,Old,Bachelor,1,2,4,3,4,2,1,1,1,Full time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.73
+Female,Middle,High School,2,2,1,2,2,2,3,2,1,Full time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.8300000000000001
+Female,Middle,Bachelor,1,1,2,2,2,1,1,1,1,Full time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.75
+Female,Old,Bachelor,1,1,1,2,3,3,1,1,1,Part time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.8399999999999999
+Female,Middle,Master,2,2,4,4,4,1,4,3,1,Full time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.75
+Male,Middle,Bachelor,3,1,2,2,2,1,1,1,1,Full time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.75
+Male,Middle,Master,1,2,4,2,2,2,1,3,1,Part time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.7599999999999998
+Male,Old,Bachelor,3,3,4,4,4,1,2,1,1,Full time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,3.9300000000000002
+Female,Middle,Bachelor,1,1,2,1,2,3,1,2,1,Full time,Home (with parents),2 - 4 hours,1 - 3,1 - 2 Hours,3.4199999999999999
+Female,Old,Master,3,1,3,4,1,2,2,2,1,Full time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.1499999999999999
+Male,Old,Master,2,2,2,3,1,2,3,2,1,Full time,University hall of residence,2 - 4 hours,4 - 6,1 - 2 Hours,3.98
+Female,Old,Master,3,3,1,4,3,3,4,2,1,Full time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,2.5
+Female,Old,Master,3,1,3,4,1,2,2,2,1,Full time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.1000000000000001
+Female,Middle,Bachelor,2,2,2,4,2,2,2,1,1,No job,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.54
+Male,Old,Master,2,2,2,2,2,1,2,1,1,Full time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.27
+Male,Old,Master,2,2,2,2,2,1,2,1,1,Full time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.27
+Male,Old,Bachelor,2,2,4,1,2,3,3,2,3,No job,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.3700000000000001
+Female,Young,High School,4,4,4,4,4,4,4,2,4,No job,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,2.2000000000000002
+Male,Young,High School,4,2,4,3,4,2,1,1,1,No job,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,4
+Female,Young,High School,3,2,1,2,2,3,3,2,2,No job,Home (with parents),2 - 4 hours,More than 6,2 - 4 Hours,3.0499999999999998
+Female,Young,High School,3,1,2,3,3,1,1,2,2,No job,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,2.2999999999999998
+Female,Young,High School,1,2,2,1,1,1,2,1,2,No job,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,4
+Male,Young,High School,4,2,4,1,4,2,2,1,1,No job,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4
+Female,Young,High School,2,2,3,2,4,2,2,1,4,No job,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.75
+Female,Young,High School,2,2,3,2,4,2,2,1,4,No job,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.75
+Female,Young,High School,3,2,1,3,2,4,4,2,4,No job,Home (with parents),More than 4 hours,More than 6,2 - 4 Hours,3.5
+Female,Young,High School,3,1,2,3,3,1,1,2,2,No job,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,2.4700000000000002
+Male,Old,Bachelor,1,2,2,2,3,2,2,1,1,Full time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2
+Female,Young,High School,2,2,3,2,4,2,2,1,4,No job,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.75
+Female,Old,Bachelor,1,1,4,2,3,2,2,2,1,No job,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,3.4100000000000001
+Female,Old,Master,1,1,3,2,2,1,1,1,1,Full time,Private rented accommodation,More than 4 hours,4 - 6,2 - 4 Hours,3.7000000000000002
+Female,Young,High School,3,2,4,3,3,2,2,1,1,No job,Home (with parents),More than 4 hours,1 - 3,Not Applicable,2.1000000000000001
+Male,Old,Bachelor,2,1,1,2,1,1,2,1,1,Full time,Private rented accommodation,1 - 2 hours,4 - 6,1 - 2 Hours,3.2400000000000002
+Female,Old,Bachelor,3,2,4,4,3,1,3,1,1,Full time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,3.8900000000000001
+Female,Young,High School,1,1,1,1,1,1,1,1,1,Part time,Home (with parents),1 - 2 hours,None,1 - 2 Hours,2.8500000000000001
+Male,Middle,Bachelor,2,2,4,3,3,2,3,2,1,No job,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,2,2,1,3,1,2,1,1,1,Part time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,Middle,Bachelor,3,1,3,3,4,3,3,3,2,No job,Home (with parents),2 - 4 hours,1 - 3,1 - 2 Hours,3.3500000000000001
+Female,Middle,Bachelor,4,4,4,3,3,4,2,4,2,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,2.2999999999999998
+Female,Middle,High School,2,2,3,3,2,3,1,1,1,No job,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,1,1,1,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,3,1,2,4,4,1,1,1,1,Part time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,2,2,3,2,3,2,3,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,1.3
+Female,Old,Bachelor,2,1,1,1,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,None,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,3,4,3,4,3,2,2,1,1,No job,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Old,High School,3,2,4,4,2,3,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,None,2 - 4 Hours,1.3
+Female,Young,High School,3,3,4,4,4,4,4,4,3,No job,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,2,3,4,4,2,4,2,4,1,No job,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,1,2,4,1,1,4,1,1,1,No job,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Male,Old,Bachelor,2,2,1,2,3,3,3,1,4,Part time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Old,Bachelor,1,2,2,2,2,1,1,1,1,Part time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4
+Female,Old,Bachelor,1,1,2,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,3,4,4,4,4,4,4,1,4,Part time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Male,Middle,Bachelor,4,2,2,1,4,2,1,2,1,No job,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4
+Female,Middle,Bachelor,3,2,3,4,4,3,4,1,3,Full Time,Home (with parents),1 - 2 hours,4 - 6,Not Applicable,2.2999999999999998
+Female,Old,Bachelor,2,2,2,2,2,1,2,1,1,Part time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Young,Bachelor,3,2,4,2,4,1,1,4,1,No job,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,Old,High School,3,2,4,3,4,2,2,2,1,Part time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,1,2,4,1,1,3,4,1,1,No job,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,2.2999999999999998
+Female,Old,High School,2,2,2,2,1,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,1,4,4,4,4,4,4,1,3,No job,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,Middle,Bachelor,2,2,4,2,4,3,2,1,2,Part time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,3,2,4,1,2,4,2,2,2,No job,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,1.3
+Female,Middle,Bachelor,3,2,3,2,1,2,2,1,2,Part time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,4
+Female,Middle,Bachelor,2,2,3,2,4,2,2,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,2,3,3,2,4,2,2,2,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.3500000000000001
+Female,Middle,Bachelor,1,3,3,2,2,3,2,2,1,Part time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Middle,High School,2,1,1,4,4,1,1,1,1,Part time,Private rented accommodation,1 - 2 hours,None,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,1,2,2,3,4,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,3,1,4,4,2,4,3,1,Part time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,2,4,4,4,2,2,2,1,Part time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,4,2,4,4,4,4,1,2,1,No job,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,2.2999999999999998
+Male,Middle,Bachelor,2,2,1,4,1,4,1,2,3,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Male,Middle,High School,3,3,3,4,4,2,4,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,Middle,High School,2,1,1,2,3,1,3,1,1,Part time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,2,1,4,2,2,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,3,3,3,4,2,4,4,2,2,No job,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,4,3,4,4,4,4,2,1,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,1,4,2,4,1,1,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,2,4,4,4,4,4,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,2,1,1,1,1,2,3,1,1,Part time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,Middle,Bachelor,2,2,1,1,3,4,1,1,1,No job,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,2,2,2,3,2,3,1,1,3,No job,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,2,1,2,2,1,1,1,1,1,No job,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,4
+Female,Old,Bachelor,2,3,4,3,4,2,2,3,1,Part time,Home (with parents),More than 4 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,1,1,1,2,1,1,1,1,No job,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,4
+Female,Old,High School,1,2,1,2,2,4,2,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,2,4,4,3,3,3,3,3,1,No job,Private rented accommodation,More than 4 hours,4 - 6,2 - 4 Hours,2.2999999999999998
+Female,Old,Bachelor,3,3,2,3,2,4,2,1,1,No job,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,3,3,4,4,4,4,4,3,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4
+Female,Middle,Bachelor,3,3,4,4,4,3,2,2,2,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,2,3,3,3,3,3,3,2,2,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,3,3,4,3,4,3,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Old,High School,3,1,1,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,4
+Female,Old,Bachelor,2,3,2,4,2,4,2,1,1,Part time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,1,1,2,1,1,1,1,1,1,No job,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,4
+Male,Old,High School,4,1,2,1,2,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Old,Bachelor,3,4,3,3,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,Young,High School,1,4,4,4,4,3,3,1,1,No job,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,2,3,3,2,3,3,3,2,No job,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,2,1,2,1,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,2,3,4,4,4,3,4,4,1,Part time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.3500000000000001
+Female,Middle,Bachelor,4,4,4,3,1,4,3,3,4,Part time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,3,3,2,2,2,4,1,1,1,Full Time,Home (with parents),1 - 2 hours,More than 6,1 - 2 Hours,2.2999999999999998
+Female,Old,Bachelor,3,1,3,3,2,2,3,1,1,No job,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,1,2,3,2,2,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,2,1,2,3,2,1,3,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,Old,Bachelor,2,1,1,2,2,2,2,1,1,No job,Private rented accommodation,More than 4 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Old,High School,2,2,2,2,1,2,2,2,1,No job,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,2,4,4,3,4,4,2,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,2,1,3,2,1,2,2,3,1,No job,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,2,2,4,3,2,3,4,4,1,Full Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,2,1,4,4,1,2,1,1,1,No job,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,1,1,1,1,1,1,1,1,1,Part time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,1.3
+Female,Old,Bachelor,1,1,1,1,1,1,1,1,1,Part time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,1.3
+Female,Middle,High School,2,1,1,2,2,1,1,1,1,No job,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,2,2,2,4,2,1,1,2,Part time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.3500000000000001
+Female,Middle,High School,3,3,4,2,3,2,1,1,1,Part time,Home (with parents),2 - 4 hours,More than 6,1 - 2 Hours,3.3500000000000001
+Female,Old,Bachelor,2,2,4,4,2,4,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Young,Bachelor,1,4,4,3,3,2,1,1,1,Part time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,2,1,2,2,2,3,1,1,1,Part time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,4
+Female,Middle,Bachelor,2,1,2,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,3,3,4,4,4,4,4,3,2,Part time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Old,High School,4,4,4,4,4,4,4,4,4,No job,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Middle,High School,1,1,3,3,1,1,1,1,1,Full Time,Home (with parents),More than 4 hours,1 - 3,1 - 2 Hours,4
+Female,Middle,High School,4,4,4,4,4,4,4,4,4,No job,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,3,4,4,4,1,4,2,4,4,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,2,2,2,2,2,2,1,1,1,No job,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,4
+Female,Middle,High School,3,3,4,4,4,4,4,4,3,Part time,Private rented accommodation,More than 4 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Middle,High School,2,2,2,2,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.3500000000000001
+Female,Old,Bachelor,2,3,4,4,1,3,4,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,3.3500000000000001
+Female,Middle,Bachelor,1,2,3,3,3,1,1,1,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,4,3,4,4,4,3,2,4,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,2,2,4,4,2,3,4,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,2,2,2,4,2,3,2,4,1,Part time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,1
+Female,Old,Bachelor,2,1,3,3,3,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,3,4,4,3,4,3,2,2,2,No job,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,4,1,2,1,1,1,1,1,1,No job,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,4
+Female,Middle,High School,2,3,3,3,3,4,2,3,1,Part time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,2,3,2,3,3,1,1,1,Full Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,4
+Female,Middle,High School,4,3,4,4,3,3,2,4,2,Part time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,2,2,2,3,2,2,2,2,Part time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,2.2999999999999998
+Female,Old,Bachelor,2,2,4,2,2,1,1,1,1,No job,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Young,High School,4,4,4,3,4,4,1,4,4,No job,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4
+Female,Middle,Bachelor,2,3,4,3,2,3,2,3,3,No job,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,3.3500000000000001
+Female,Middle,High School,2,2,2,2,3,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,1,1,1,1,1,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,3,2,4,4,2,2,4,4,2,No job,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,2,4,4,3,3,3,2,2,3,Part time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Middle,High School,2,1,4,2,4,1,4,2,1,Part time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,3,3,4,4,4,2,2,2,2,No job,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Middle,High School,2,1,1,3,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,3,2,1,3,2,2,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Middle,High School,3,4,4,4,2,4,4,4,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.3500000000000001
+Female,Old,Bachelor,2,3,4,3,4,4,2,2,2,Part time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Middle,High School,3,2,4,4,4,2,1,1,3,No job,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,Old,Master,4,3,4,4,2,3,3,3,1,No job,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,3,1,3,3,1,1,1,1,1,No job,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4
+Female,Old,Master,3,2,2,2,2,2,1,1,1,No job,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,4
+Female,Young,High School,2,1,4,4,4,1,1,1,1,No job,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Old,Bachelor,3,1,4,3,3,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Middle,High School,4,3,3,4,4,3,4,4,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,3,3,4,4,4,2,3,2,1,No job,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,3,2,4,4,4,4,1,2,4,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,3,1,4,3,2,1,2,1,4,Full Time,Home (with parents),More than 4 hours,More than 6,More than 4 Hours,4
+Female,Old,Bachelor,3,3,3,2,2,3,2,2,4,Part time,Private rented accommodation,More than 4 hours,More than 6,More than 4 Hours,4
+Female,Old,High School,1,1,4,3,1,3,2,3,1,Part time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,3,3,3,2,3,1,1,3,Part time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,3.3500000000000001
+Female,Middle,High School,3,2,3,4,2,4,4,2,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,1.3
+Female,Old,Master,2,1,2,2,1,1,2,1,1,No job,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,2,1,2,1,2,1,1,1,Part time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,4
+Female,Middle,High School,3,4,2,3,1,4,3,2,2,Part time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,1.3
+Female,Middle,High School,3,4,4,3,3,4,2,1,1,Part time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4
+Female,Middle,Bachelor,2,2,3,4,4,4,2,2,1,No job,Home (with parents),More than 4 hours,1 - 3,2 - 4 Hours,1.3
+Female,Old,High School,4,4,4,4,3,4,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,1,3,3,1,3,1,1,1,No job,Home (with parents),1 - 2 hours,More than 6,1 - 2 Hours,2.2999999999999998
+Female,Old,High School,2,4,4,4,4,3,2,3,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4
+Female,Young,High School,2,3,4,4,3,3,2,1,1,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,4,4,4,4,4,3,2,1,1,No job,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,4
+Female,Old,Master,1,1,3,1,2,1,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,4
+Female,Middle,Bachelor,1,2,3,3,2,2,1,4,2,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4
+Female,Middle,Bachelor,2,3,1,2,1,3,1,1,3,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,2,3,4,1,2,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Male,Old,Bachelor,2,1,1,3,2,1,1,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,4,3,4,3,2,4,4,1,3,Part time,Private rented accommodation,More than 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,1,3,4,3,1,3,1,1,1,No job,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,3,3,2,4,4,4,4,2,2,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,4
+Female,Middle,Bachelor,2,2,3,3,3,2,4,3,2,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,2,1,3,4,2,2,3,1,1,Part time,Home (with parents),More than 4 hours,1 - 3,2 - 4 Hours,4
+Female,Middle,High School,2,2,3,3,3,2,2,1,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,4
+Female,Middle,High School,2,1,2,2,3,1,1,1,1,Part time,Home (with parents),1 - 2 hours,1 - 3,Not Applicable,2.2999999999999998
+Male,Old,Bachelor,2,3,2,3,4,2,2,2,2,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,2,2,3,3,4,2,1,1,1,Part time,Private rented accommodation,More than 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Young,High School,1,2,2,1,1,1,1,1,1,Part time,Private rented accommodation,More than 4 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,1,1,1,1,4,1,1,1,1,Full Time,Private rented accommodation,More than 4 hours,More than 6,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,1,3,3,2,1,1,1,1,Full Time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,2.2999999999999998
+Female,Middle,High School,2,3,4,4,3,4,3,2,1,No job,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,1,1,2,1,1,1,1,1,1,Part time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,3,4,4,4,4,4,4,4,2,Part time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,1,1,2,4,4,1,2,1,Part time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4
+Female,Middle,High School,2,3,4,4,4,3,2,1,1,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,3,2,4,4,4,4,4,3,3,Full Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,Old,Master,2,4,4,4,4,4,4,4,4,Full Time,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,4
+Female,Old,Bachelor,4,3,3,3,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Old,Bachelor,3,3,2,3,3,2,2,1,1,Part time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4
+Female,Old,Bachelor,2,3,1,2,3,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,Middle,Bachelor,4,4,4,4,4,4,4,4,1,Part time,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Old,High School,2,1,2,3,3,1,1,2,1,No job,Private rented accommodation,More than 4 hours,4 - 6,2 - 4 Hours,4
+Female,Middle,High School,2,3,4,2,4,4,2,3,2,No job,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,2,1,3,2,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,4,3,4,4,4,4,1,1,2,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,3,4,3,2,3,4,3,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,3,1,3,2,1,1,1,1,1,Part time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,4
+Female,Old,Bachelor,2,2,4,4,1,1,1,1,1,No job,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,4,3,4,3,4,4,4,3,4,Part time,Home (with parents),More than 4 hours,1 - 3,1 - 2 Hours,2.2999999999999998
+Male,Middle,High School,2,3,1,3,3,3,3,3,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Old,Bachelor,2,1,2,2,2,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,2,1,3,2,1,3,2,1,1,No job,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,3,4,2,4,4,4,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1
+Female,Old,Bachelor,4,3,2,4,2,4,4,2,4,Part time,Home (with parents),1 - 2 hours,1 - 3,1 - 2 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,2,2,3,4,4,3,3,4,Part time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,1,2,2,1,2,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Old,Bachelor,3,2,4,3,4,1,1,2,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Old,Bachelor,1,1,2,2,2,2,2,1,1,No job,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Old,Bachelor,4,4,4,3,3,3,1,1,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Old,Bachelor,3,3,4,4,4,4,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,Young,High School,1,1,2,1,2,1,1,1,1,No job,Home (with parents),1 - 2 hours,More than 6,1 - 2 Hours,4
+Female,Old,Bachelor,3,1,4,3,2,1,2,1,1,No job,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,2,1,1,2,1,1,2,1,1,Part time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,2,4,2,4,4,4,3,2,2,No job,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,Middle,Bachelor,3,1,2,3,2,2,2,2,1,No job,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,4,4,4,4,4,4,4,2,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Young,High School,2,2,1,2,1,3,1,1,1,Part time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Young,High School,2,2,2,2,1,2,1,1,1,Part time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Old,High School,2,2,3,4,2,3,2,1,1,Part time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,2,3,2,3,3,4,2,1,1,Full Time,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,2,3,2,4,4,3,4,3,1,No job,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,2,2,1,1,1,1,1,1,1,No job,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,4
+Female,Middle,Bachelor,3,4,4,3,4,4,4,2,2,No job,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,3,3,4,3,3,3,3,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,2,2,1,2,4,3,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,4,3,4,4,2,1,1,3,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,4
+Female,Middle,Bachelor,2,2,3,2,3,3,3,2,2,Part time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,1.3
+Female,Young,High School,2,1,4,4,3,3,3,1,2,No job,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,4,4,3,3,3,3,2,1,1,No job,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,4,4,3,3,4,4,3,2,4,Part time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,4
+Female,Middle,Bachelor,3,3,4,4,3,3,3,2,3,No job,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Middle,High School,3,2,4,3,3,4,2,1,2,Part time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Old,High School,3,2,2,4,2,4,2,3,1,Full Time,Home (with parents),More than 4 hours,4 - 6,2 - 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,3,4,3,4,3,4,1,3,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,3.3500000000000001
+Female,Middle,High School,3,3,4,4,4,3,4,3,3,Part time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,3,2,4,4,4,3,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Old,High School,3,3,4,4,3,3,4,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,3,3,2,4,3,3,3,1,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,1,4,2,2,2,4,1,2,1,Part time,Private rented accommodation,1 - 2 hours,1 - 3,Not Applicable,3.3500000000000001
+Female,Old,Bachelor,4,3,1,4,4,4,4,4,2,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,3,3,4,1,2,4,4,1,Part time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,2,1,2,3,3,2,4,2,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,Middle,Bachelor,2,1,2,2,2,2,2,2,1,Part time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,3,4,2,4,1,2,2,2,1,Full Time,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,4
+Female,Young,High School,4,1,3,4,1,1,4,3,1,Part time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.3500000000000001
+Female,Middle,High School,2,2,3,3,2,3,2,1,1,No job,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Middle,High School,3,4,2,3,3,3,2,1,1,Part time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Male,Middle,Bachelor,2,1,4,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,2.2999999999999998
+Female,Old,Master,2,1,1,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,4
+Female,Old,Bachelor,2,1,2,1,2,4,1,3,1,No job,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,Old,Bachelor,3,4,4,4,2,3,2,3,2,Full Time,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,1,1,2,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,3,2,3,4,2,2,3,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,3,1,4,3,3,4,2,1,1,Part time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,2,3,4,3,1,3,1,1,Full Time,Home (with parents),1 - 2 hours,None,More than 4 Hours,1.3
+Female,Middle,Bachelor,3,2,3,4,3,1,3,1,1,Full Time,Home (with parents),1 - 2 hours,None,More than 4 Hours,1.3
+Female,Old,Bachelor,2,2,1,2,2,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,4
+Female,Middle,High School,2,3,1,2,4,3,3,2,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,3.3500000000000001
+Female,Old,Bachelor,4,3,1,3,4,2,2,3,1,Part time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,2.2999999999999998
+Female,Old,Bachelor,2,1,2,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,4
+Female,Old,Bachelor,2,2,1,3,2,1,2,4,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,2.2999999999999998
+Female,Old,High School,3,4,2,3,2,3,3,2,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,4,4,4,1,1,1,1,2,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,4
+Female,Middle,High School,4,3,4,3,4,4,4,2,2,Part time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,4
+Female,Old,Bachelor,2,3,1,2,4,4,2,4,2,Part time,Private rented accommodation,More than 4 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Young,High School,3,1,3,4,1,2,2,1,1,No job,Home (with parents),More than 4 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,4,3,2,4,4,4,2,1,3,No job,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,1.3
+Female,Middle,Bachelor,2,2,3,4,4,3,2,3,2,Full Time,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,3.3500000000000001
+Female,Old,Bachelor,3,4,4,4,4,4,4,4,2,No job,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,4
+Female,Old,Bachelor,3,3,3,4,4,3,3,2,2,Part time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,3,3,3,3,3,3,3,3,2,Full Time,Private rented accommodation,More than 4 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Old,High School,2,2,1,2,4,4,4,2,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,2.2999999999999998
+Male,Middle,Bachelor,3,3,3,3,3,3,3,3,2,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,1 - 2 Hours,3.3500000000000001
+Female,Old,Bachelor,1,1,1,4,4,1,4,2,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Young,Bachelor,2,3,4,4,1,3,4,1,1,Part time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,4
+Female,Old,Bachelor,2,1,1,2,2,3,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Young,High School,3,2,4,4,4,3,2,1,2,Part time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,1,1,1,2,2,1,1,2,1,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,3,2,2,2,2,4,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Male,Middle,High School,1,1,1,2,1,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,2 - 4 Hours,3.3500000000000001
+Female,Middle,Bachelor,2,2,4,1,1,2,2,1,1,Part time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,High School,2,2,2,2,2,2,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,3.3500000000000001
+Female,Old,Bachelor,2,2,3,4,3,3,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,3,2,2,2,3,3,1,4,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.2999999999999998
+Female,Middle,Bachelor,2,4,4,4,3,4,2,4,2,Part time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.3500000000000001
+Female,Middle,High School,2,1,2,2,4,2,1,2,1,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,1 - 2 Hours,1.3
+Female,Middle,High School,3,4,3,4,4,3,2,3,2,Full Time,Home (with parents),More than 4 hours,More than 6,2 - 4 Hours,3.3500000000000001
+Female,Young,High School,2,1,2,3,2,1,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.3500000000000001
+Female,Middle,Bachelor,2,1,4,4,3,1,4,4,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,Old,Bachelor,4,3,4,4,4,4,4,3,2,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,1.3
+Female,Middle,Bachelor,4,4,2,4,3,4,4,3,2,No job,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4
+Female,Old,Bachelor,4,4,2,2,2,2,2,2,3,Full Time,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,4
+Female,Middle,Bachelor,3,3,3,3,3,3,3,3,2,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,3.3500000000000001
+Female,Old,Bachelor,3,4,4,3,4,4,2,2,3,Full Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,3.3500000000000001
+Female,Young,High School,3,1,3,2,3,1,1,1,1,No job,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,2.2999999999999998
